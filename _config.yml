@@ -1,10 +1,10 @@
 excerpt_separator: ""
-pygments: true
-markdown: kramdown
-url: http://rcandido.github.io
+pygments: "true"
+markdown: "kramdown"
+url: "http://rcandido.github.io"
 title: "Roberto's Tlog"
-email: robertoco.jr@gmail.com
-author: Roberto Candido de Oliveira Júnior
-description: Meu blog sobre tecnologia.
+email: "robertoco.jr@gmail.com"
+author: "Roberto Candido de Oliveira Júnior"
+description: "Meu blog sobre tecnologia."
 paginate: 3
 google_analytics:
