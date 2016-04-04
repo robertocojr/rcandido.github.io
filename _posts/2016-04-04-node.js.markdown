@@ -1,0 +1,8 @@
+---
+published: false
+title: Node.js
+layout: post
+---
+Conheci essa tecnologia a alguns meses (2 para ser mais preciso) e me apaixonei logo de cara.
+
+Basicamente é utilizar o JavaScript no lado do servidor. Por estou iniciando no JavaScript e já havia ouvido falar sobre o Node.js decidi ir atrás e conhecer um pouco mais a fundo, para potencializar o meu aprendizado.
