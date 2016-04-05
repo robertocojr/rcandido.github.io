@@ -1,0 +1,12 @@
+---
+published: true
+title: Node.js
+layout: post
+---
+Conheci essa tecnologia a alguns meses (2 para ser mais preciso) e me apaixonei logo de cara. É simple, funciona, é produtivo, é d+.
+
+Basicamente é utilizar o JavaScript no lado do servidor. Não sou um grande conhecedor de JavaScript e tinha uma espécie de preconceito a ele, porém após trabalhar com ele, fui entendendo sua essência e comecei a gostar muito. Me interessei em estudar Node.js para utilizar JavaScript no lado do servidor e potencializar meu aprendisado de JavaScript.
+
+Vou postar soluções conforme for me aprofundando em meus estudos.
+
+PS: Bem vindos ao pior post de meu blog :)
