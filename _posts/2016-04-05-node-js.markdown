@@ -2,6 +2,7 @@
 published: true
 title: Node.js
 layout: post
+tags: [node, nodejs]
 ---
 Conheci essa tecnologia a alguns meses (2 para ser mais preciso) e me apaixonei logo de cara. É simple, funciona, é produtivo, é d+.
 
