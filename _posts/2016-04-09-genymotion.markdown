@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Genymotion
 layout: post
 ---
@@ -11,5 +11,6 @@ Começou minha saga pela internet tentando solucionar esse problema, encontrei a
 Então notei que quando eu criava um novo dispositivo ocorria um erro antes do problema com o IP.
 
 Veja os erros:
+
 ![HTTP inseguro]({{ site.baseurl }}/images/20160408_erro-bios.png)
 {: center }
