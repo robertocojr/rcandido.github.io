@@ -12,5 +12,25 @@ Então notei que quando eu criava um novo dispositivo ocorria um erro antes do p
 
 Veja os erros:
 
-![HTTP inseguro]({{ site.baseurl }}/images/20160408_erro-bios.png)
+- Erro informando que a tecnologia de virtualização não estáva habilitada na BIOS.
+![Erro BIOS]({{ site.baseurl }}/images/20160408_erro-bios.png)
+{: center }
+
+- Erro informando que o dispositivo virtual não tem um endereço de ip.
+![Erro IP]({{ site.baseurl }}/images/20160408_erro-ip.png)
+{: center }
+
+O erro de virtualização é infinitamente mais específico que o problema com IP, na mensagem já tenho a solução. Demorei a notar esse problema por essa popup sumir apṕos alguns segundos acabava nem notando que ocorreu esse erro.
+
+
+# Solução
+
+Basta seguir a sugestão da popup e habilitar na BIOS, no meu caso a opção se chamava "Intel Virtual Technology" provavelmente será a mesma para vocês, ou algo bem parecido. Veja algumas imagens do meu Bios Manager:
+
+- Configuração:
+![Configuração BIOS]({{ site.baseurl }}/images/20160408_configuracao.png)
+{: center }
+
+- Descrição da Configuração:
+![Descrição da Configuração]({{ site.baseurl }}/images/20160408_configuracao-descricao.png)
 {: center }
