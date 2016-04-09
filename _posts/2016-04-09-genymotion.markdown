@@ -34,3 +34,7 @@ Basta seguir a sugestão da popup e habilitar na BIOS, no meu caso a opção se 
 - Descrição da Configuração:
 ![Descrição da Configuração]({{ site.baseurl }}/images/20160408_configuracao-descricao.png)
 {: center }
+
+Feito isso consegui abrir o emulador com sucesso. Veja que bonito :)
+![Emulador Genymotion]({{ site.baseurl }}/images/20160408_genymotion-emulador.png)
+{: center }
