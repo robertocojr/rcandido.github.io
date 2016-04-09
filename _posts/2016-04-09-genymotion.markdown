@@ -20,10 +20,10 @@ Veja os erros:
 ![Erro IP]({{ site.baseurl }}/images/20160408_erro-ip.png)
 {: center }
 
-O erro de virtualização é infinitamente mais específico que o problema com IP, na mensagem já tenho a solução. Demorei a notar esse problema por essa popup sumir apṕos alguns segundos acabava nem notando que ocorreu esse erro.
+O erro de virtualização é infinitamente mais específico que o problema com IP, na mensagem já tenho a solução. Demorei a notar esse problema por essa popup sumir após alguns segundos acabava nem notando que ocorreu esse erro.
 
 
-# Solução
+## Solução
 
 Basta seguir a sugestão da popup e habilitar na BIOS, no meu caso a opção se chamava "Intel Virtual Technology" provavelmente será a mesma para vocês, ou algo bem parecido. Veja algumas imagens do meu Bios Manager:
 
