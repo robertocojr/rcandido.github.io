@@ -2,6 +2,8 @@
 published: true
 title: Genymotion
 layout: post
+tags: [genymotion, debian, problema, ip, bios, virtualização, virtualizacao]
+categories: [android, ios]
 ---
 Hoje tive um problema para instalar o Genymotion no Debian 8.
 
